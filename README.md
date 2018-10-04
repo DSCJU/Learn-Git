@@ -17,4 +17,5 @@ Let's learn Git
     9) git diff
     10) git merge <branch name>
     11) git branch --merged
+    12) git status
  
